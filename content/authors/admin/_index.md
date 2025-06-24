@@ -83,7 +83,7 @@ user_groups:
 ## About Me
 
 <p align="justify">
-TESTI’m a Senior Quantitative Researcher on the Research & Analytics team at Slack, where I apply behavioral science principles to understand how people and organizations work and how they can work better. My role sits at the intersection of applied research, product strategy, and data science.
+I’m a Senior Quantitative Researcher on the Research & Analytics team at Slack, where I apply behavioral science principles to understand how people and organizations work and how they can work better. My role sits at the intersection of applied research, product strategy, and data science.
 </p>
 
 <p align="justify">
