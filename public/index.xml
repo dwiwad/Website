@@ -7,7 +7,7 @@
     <description>DYLAN WIWAD, Ph.D</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://dwiwad.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://dwiwad.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>DYLAN WIWAD, Ph.D</title>
       <link>https://dwiwad.github.io/</link>
     </image>
@@ -79,7 +79,7 @@
     <item>
       <title>Why are Tinder App Store Ratings Declining?</title>
       <link>https://dwiwad.github.io/project/tinder_ratings/</link>
-      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 18 Mar 2022 00:00:00 -0500</pubDate>
       <guid>https://dwiwad.github.io/project/tinder_ratings/</guid>
       <description>&lt;h2 id=&#34;highlights&#34;&gt;Highlights&lt;/h2&gt;
 &lt;ul&gt;
@@ -176,7 +176,7 @@
     <item>
       <title>PsyPost Summary and Reddit Conversation on Wiwad et al., 2021, JESP</title>
       <link>https://dwiwad.github.io/project/psypost_coverage_jesp/</link>
-      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 14 Dec 2020 00:00:00 -0600</pubDate>
       <guid>https://dwiwad.github.io/project/psypost_coverage_jesp/</guid>
       <description>&lt;p&gt;Shortly after the publication of 
 &lt;a href=&#34;https://dwiwad.github.io/files/jesp_2021.pdf&#34;&gt;our paper&lt;/a&gt; in the &lt;em&gt;Journal of Experimental Social Psychology&lt;/em&gt; exploring how the COVID-19 pandemic has shifted attitudes towards poverty and inequality, Eric Dolan of 
@@ -206,7 +206,7 @@
     <item>
       <title></title>
       <link>https://dwiwad.github.io/collaborators/</link>
-      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 05 May 2020 00:00:00 -0500</pubDate>
       <guid>https://dwiwad.github.io/collaborators/</guid>
       <description>&lt;DIV align=&#34;center&#34;&gt;
   &lt;h1&gt;My Collaborators&lt;/h1&gt;
@@ -229,7 +229,7 @@
     <item>
       <title></title>
       <link>https://dwiwad.github.io/publications_citestyle/</link>
-      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 05 May 2020 00:00:00 -0500</pubDate>
       <guid>https://dwiwad.github.io/publications_citestyle/</guid>
       <description>&lt;DIV align=&#34;center&#34;&gt;
   &lt;h1&gt;Peer Reviewed Publications&lt;/h1&gt;
@@ -289,7 +289,7 @@ inequality: Cross-national and experimental evidence. &lt;em&gt;Perspectives on 
     <item>
       <title></title>
       <link>https://dwiwad.github.io/research/</link>
-      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 05 May 2020 00:00:00 -0500</pubDate>
       <guid>https://dwiwad.github.io/research/</guid>
       <description>&lt;DIV align=&#34;center&#34;&gt;
   &lt;h1&gt;My Research&lt;/h1&gt;
@@ -317,7 +317,7 @@ In my work I have (i) uncovered various biased belief systems (e.g., beliefs abo
     <item>
       <title></title>
       <link>https://dwiwad.github.io/teaching/</link>
-      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 05 May 2020 00:00:00 -0500</pubDate>
       <guid>https://dwiwad.github.io/teaching/</guid>
       <description>&lt;DIV align=&#34;center&#34;&gt;
   &lt;h1&gt;Teaching Philosophy&lt;/h1&gt;
@@ -406,14 +406,14 @@ data.head()
 {\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;renders as&lt;/p&gt;
-&lt;p&gt;$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left |\nabla F(\mathbf{x}&lt;em&gt;{n}) - \nabla F(\mathbf{x}&lt;/em&gt;{n-1}) \right |^2}$$&lt;/p&gt;
+&lt;p&gt;$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left |\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right |^2}$$&lt;/p&gt;
 &lt;p&gt;Example &lt;strong&gt;inline math&lt;/strong&gt; &lt;code&gt;$\nabla F(\mathbf{x}_{n})$&lt;/code&gt; renders as $\nabla F(\mathbf{x}_{n})$.&lt;/p&gt;
 &lt;p&gt;Example &lt;strong&gt;multi-line math&lt;/strong&gt; using the &lt;code&gt;\\\\&lt;/code&gt; math linebreak:&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;$$f(k;p_0^*) = \begin{cases} p_0^* &amp;amp; \text{if }k=1, \\\\
 1-p_0^* &amp;amp; \text {if }k=0.\end{cases}$$
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;renders as&lt;/p&gt;
-&lt;p&gt;$$f(k;p_0^&lt;em&gt;) = \begin{cases} p_0^&lt;/em&gt; &amp;amp; \text{if }k=1, \\
+&lt;p&gt;$$f(k;p_0^*) = \begin{cases} p_0^* &amp;amp; \text{if }k=1, \\&lt;br&gt;
 1-p_0^* &amp;amp; \text {if }k=0.\end{cases}$$&lt;/p&gt;
 &lt;h3 id=&#34;diagrams&#34;&gt;Diagrams&lt;/h3&gt;
 &lt;p&gt;Academic supports a Markdown extension for diagrams. You can enable this feature by toggling the &lt;code&gt;diagram&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file or by adding &lt;code&gt;diagram: true&lt;/code&gt; to your page front matter.&lt;/p&gt;
@@ -672,8 +672,7 @@ date: 2019-09-01
 &lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
 &lt;/code&gt;&lt;/pre&gt;
 &lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
-&lt;p&gt;This post was created with Jupyter. The orginal files can be found at 
-&lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -731,15 +730,15 @@ $$&lt;/p&gt;
 {{% fragment %}} Three {{% /fragment %}}
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-   One 
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+One
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-   **Two** 
+&lt;strong&gt;Two&lt;/strong&gt;
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-   Three 
-&lt;/span&gt;
+Three
+&lt;/span&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
 &lt;ul&gt;
@@ -814,7 +813,7 @@ $$&lt;/p&gt;
     <item>
       <title>TBT Our SPSP 2015 Symposium on Economic Mobility and Inequality</title>
       <link>https://dwiwad.github.io/project/spsp_2015/</link>
-      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 -0500</pubDate>
       <guid>https://dwiwad.github.io/project/spsp_2015/</guid>
       <description>&lt;p&gt;Back in 2015, when I was a second year Master&amp;rsquo;s student I co-chaired a symposium at the annual Society for Personality and Social Psychology (SPSP) conference with 
 &lt;a href=&#34;https://www.shaidavidai.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shai Davidai&lt;/a&gt;. In short, across three great talks given by Drs. Mike Norton and Shai Davidai, as well as myself, we covered:&lt;/p&gt;
@@ -908,7 +907,7 @@ regardless of current economic standing.&lt;/p&gt;
     <item>
       <title>Machine Learning Tutorial: Predicting Car Prices with K-Nearest Neighbours (KNN) Regression</title>
       <link>https://dwiwad.github.io/project/car_prices/</link>
-      <pubDate>Sun, 07 Oct 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 -0500</pubDate>
       <guid>https://dwiwad.github.io/project/car_prices/</guid>
       <description>&lt;h1 id=&#34;predicting-car-prices-with-knn-regression&#34;&gt;Predicting Car Prices with KNN Regression&lt;/h1&gt;
 &lt;p&gt;In this brief tutorial I am going to run through how to build, implement, and cross-validate a simple k-nearest neighbours (KNN) regression model. Simply put, KNN model is a variant of simple linear regression wherein we utilize information about neighbouring data points to predict an unknown outcome. To put a more concrete spin on this, and use the name quite literally, we can think about this in the context of your next door neighbours. If the outcome I wanted to predict was your personal income and didn&amp;rsquo;t have any other information about you, besides where you live, I might be wise to just ask your next door neighbours. I might decide to run a real life 4-nearest neighbours test. The two houses to the right of yours have a household incomes of $65,000 and $90,000 respectively, and the two to the left $100,000 and $72,000. In the simplest possible fashion I would then just assume you make somewhere in the ballpark of what your neighbours make, take an average, and predict that you have a household income of $81,750.&lt;/p&gt;
@@ -1633,7 +1632,7 @@ plt.show()
     <item>
       <title>Does High Economic Inequality, and Low Economic Mobility Threaten, the Relationship Between Income and Happiness?</title>
       <link>https://dwiwad.github.io/project/mobility_happiness/</link>
-      <pubDate>Fri, 05 Oct 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 05 Oct 2018 00:00:00 -0500</pubDate>
       <guid>https://dwiwad.github.io/project/mobility_happiness/</guid>
       <description>&lt;p&gt;Myriad past research demonstrates a fairly strong link between money and happiness. That is, people are generally happier when they make more money up to around the $75,000 a year mark 
 &lt;a href=&#34;http://www.pnas.org/content/pnas/107/38/16489.full.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(e.g., Kahneman &amp;amp; Deaton, 2010)&lt;/a&gt;. However, one possible threat to this relationship is the level of economic inequality. Really, one could imagine this relationship going in either directions. On one hand, it seems intuitive that money has more happiness purchasing-power when your immediate community is highly unequal. In this case, having a lot of money could make you more satisfied to have &amp;lsquo;made it.&amp;rsquo; On the other hand, it could be extremely uncomfortable to be on the top of the economic ladder when poverty is so readily apparent.&lt;/p&gt;
@@ -1668,7 +1667,7 @@ plt.show()
     <item>
       <title>Visualizing the Tour De France</title>
       <link>https://dwiwad.github.io/project/tdf_speed/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
       <guid>https://dwiwad.github.io/project/tdf_speed/</guid>
       <description>&lt;p&gt;In this short post I&amp;rsquo;m going to do the first set of two visualizations exploring data regarding the grand tours that I pulled from Wikipedia. Specifically, here I&amp;rsquo;m going to look at a couple elements of the Tour de France over it&amp;rsquo;s entire 114 year history. Namely, I&amp;rsquo;m going to look at the length of the Tour, the average speed of the winner for each edition, their total winning time, and the margin that they won by.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m not intending to do any inferential analyses, but what I&amp;rsquo;m expecting to see is that the Tour is getting faster and shorter, and is being won on smaller margins as time goes on. I&amp;rsquo;m going to hide all of the code in this particular notebook, but I will display some of the raw data and explain the process as I go along just so you can see where I started and where I got to, and then what those data actually look like. If you are interested in the more technical aspects of how I did all of these analyses, there is a seperate jupyter notebook in the repository I put up on github for this particular project 

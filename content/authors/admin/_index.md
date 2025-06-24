@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Quantitative Social Scientist
+role: Senior Quantitative Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Kellogg School of Management, Northwestern University
+- name: Slack
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Kellogg School of Management, Northwestern University.
+bio: Slack
 
 Interests:
 - Economic Inequality
@@ -83,17 +83,13 @@ user_groups:
 ## About Me
 
 <p align="justify">
-I am a Quantitative Social Scientist currently working in the <a href="https://www.kellogg.northwestern.edu/research/dispute-resolution-research-center.aspx">Dispute Resolution Research Center</a> of the <a href="https://www.kellogg.northwestern.edu/faculty/academics/management-and-organizations.aspx">Management and Organizations Department</a> at the <a href="https://www.kellogg.northwestern.edu/">Kellogg School of Management, Northwestern University</a>
+I’m a Senior Quantitative Researcher on the Research & Analytics team at Slack, where I apply behavioral science principles to understand how people and organizations work and how they can work better. My role sits at the intersection of applied research, product strategy, and data science.
 </p>
 
 <p align="justify">
-I use my expertise and experience as a social scientist to identify, and solve, pressing social and organizational problems. To do this effectively I take a methodologically and analytically diverse approach to my work by using, learning, or developing whatever tool is necessary to find the right answers. 
+Trained as a social psychologist, I bring an academic foundation to industry research. I use a methodologically diverse approach to tackle complex questions about technology, collaboration, and workplace behavior. Whether it’s designing experiments, analyzing longitudinal survey data, analyzing behavioral data, or building scalable measurement tools, I use whatever methods are best suited to the question at hand.
 </p>
 
 <p align="justify">
-I have published peer-reviewed work using traditional experiments, archival data, organizational field studies, and longitudinal studies. In doing this work I rely on traditional regression-based approaches (e.g., linear regression, multilevel modeling), latent variable modeling (e.g., structural equation models, factor analysis, and latent change score modeling), and psychometrics (e.g., item response theory). I have also dabbled in Machine Learning and Natural Language Processing.
-</p>
-
-<p align="justify">
-I am also an avid semi-professional cyclist; I compete at the highest level across both Canada and the United States on both the road and the velodrome.
+I have published peer-reviewed work using traditional experiments, archival data, organizational field studies, and My peer-reviewed academic work spans traditional lab experiments, organizational field studies, archival analyses, and multi-wave panel designs. Analytically, I draw from regression-based modeling (e.g., linear and multilevel models), latent variable approaches (e.g., structural equation modeling, factor analysis, and latent change score models), and psychometric techniques (e.g., item response theory). I also occasionally explore machine learning and natural language processing when they serve a specific research goal.
 </p>

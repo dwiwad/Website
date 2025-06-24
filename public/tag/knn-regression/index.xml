@@ -5,9 +5,9 @@
     <link>https://dwiwad.github.io/tag/knn-regression/</link>
       <atom:link href="https://dwiwad.github.io/tag/knn-regression/index.xml" rel="self" type="application/rss+xml" />
     <description>knn regression</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Oct 2018 00:00:00 -0500</lastBuildDate>
     <image>
-      <url>https://dwiwad.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://dwiwad.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>knn regression</title>
       <link>https://dwiwad.github.io/tag/knn-regression/</link>
     </image>
@@ -15,7 +15,7 @@
     <item>
       <title>Machine Learning Tutorial: Predicting Car Prices with K-Nearest Neighbours (KNN) Regression</title>
       <link>https://dwiwad.github.io/project/car_prices/</link>
-      <pubDate>Sun, 07 Oct 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 -0500</pubDate>
       <guid>https://dwiwad.github.io/project/car_prices/</guid>
       <description>&lt;h1 id=&#34;predicting-car-prices-with-knn-regression&#34;&gt;Predicting Car Prices with KNN Regression&lt;/h1&gt;
 &lt;p&gt;In this brief tutorial I am going to run through how to build, implement, and cross-validate a simple k-nearest neighbours (KNN) regression model. Simply put, KNN model is a variant of simple linear regression wherein we utilize information about neighbouring data points to predict an unknown outcome. To put a more concrete spin on this, and use the name quite literally, we can think about this in the context of your next door neighbours. If the outcome I wanted to predict was your personal income and didn&amp;rsquo;t have any other information about you, besides where you live, I might be wise to just ask your next door neighbours. I might decide to run a real life 4-nearest neighbours test. The two houses to the right of yours have a household incomes of $65,000 and $90,000 respectively, and the two to the left $100,000 and $72,000. In the simplest possible fashion I would then just assume you make somewhere in the ballpark of what your neighbours make, take an average, and predict that you have a household income of $81,750.&lt;/p&gt;

@@ -5,9 +5,9 @@
     <link>https://dwiwad.github.io/tag/python/</link>
       <atom:link href="https://dwiwad.github.io/tag/python/index.xml" rel="self" type="application/rss+xml" />
     <description>Python</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Oct 2018 00:00:00 -0500</lastBuildDate>
     <image>
-      <url>https://dwiwad.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://dwiwad.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Python</title>
       <link>https://dwiwad.github.io/tag/python/</link>
     </image>
@@ -15,7 +15,7 @@
     <item>
       <title>Machine Learning Tutorial: Predicting Car Prices with K-Nearest Neighbours (KNN) Regression</title>
       <link>https://dwiwad.github.io/project/car_prices/</link>
-      <pubDate>Sun, 07 Oct 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 -0500</pubDate>
       <guid>https://dwiwad.github.io/project/car_prices/</guid>
       <description>&lt;h1 id=&#34;predicting-car-prices-with-knn-regression&#34;&gt;Predicting Car Prices with KNN Regression&lt;/h1&gt;
 &lt;p&gt;In this brief tutorial I am going to run through how to build, implement, and cross-validate a simple k-nearest neighbours (KNN) regression model. Simply put, KNN model is a variant of simple linear regression wherein we utilize information about neighbouring data points to predict an unknown outcome. To put a more concrete spin on this, and use the name quite literally, we can think about this in the context of your next door neighbours. If the outcome I wanted to predict was your personal income and didn&amp;rsquo;t have any other information about you, besides where you live, I might be wise to just ask your next door neighbours. I might decide to run a real life 4-nearest neighbours test. The two houses to the right of yours have a household incomes of $65,000 and $90,000 respectively, and the two to the left $100,000 and $72,000. In the simplest possible fashion I would then just assume you make somewhere in the ballpark of what your neighbours make, take an average, and predict that you have a household income of $81,750.&lt;/p&gt;
@@ -740,7 +740,7 @@ plt.show()
     <item>
       <title>Visualizing the Tour De France</title>
       <link>https://dwiwad.github.io/project/tdf_speed/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
       <guid>https://dwiwad.github.io/project/tdf_speed/</guid>
       <description>&lt;p&gt;In this short post I&amp;rsquo;m going to do the first set of two visualizations exploring data regarding the grand tours that I pulled from Wikipedia. Specifically, here I&amp;rsquo;m going to look at a couple elements of the Tour de France over it&amp;rsquo;s entire 114 year history. Namely, I&amp;rsquo;m going to look at the length of the Tour, the average speed of the winner for each edition, their total winning time, and the margin that they won by.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m not intending to do any inferential analyses, but what I&amp;rsquo;m expecting to see is that the Tour is getting faster and shorter, and is being won on smaller margins as time goes on. I&amp;rsquo;m going to hide all of the code in this particular notebook, but I will display some of the raw data and explain the process as I go along just so you can see where I started and where I got to, and then what those data actually look like. If you are interested in the more technical aspects of how I did all of these analyses, there is a seperate jupyter notebook in the repository I put up on github for this particular project 
