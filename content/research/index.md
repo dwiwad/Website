@@ -23,9 +23,9 @@ You can see my full research statement [here](/files/research.pdf).
   <h1>Working Papers</h1>
 </DIV>
 
-**Wiwad, D.**, Shariff, A, & Kteily, N. S. (*Under Review*). [Trade-offs in economic preferences: Both	Democrats and Republicans prioritize poverty alleviation over equality and efficiency.](/files/pnas_ur.pdf)
+**Wiwad, D.**, Waldfogel, H., Shariff, A, & Kteily, N. S. (*Under Review, Nature Communications*). [Trade-Offs in economic preferences: Partisans perceive ideological divergence where there is strong convergence](/files/nat_comms_2025.pdf)
 
-**Wiwad, D.**, Jachimowicz, J, & Davidai, S. (*Under Review*). [Perceived Upward workplace mobility shapes	zero-sum thinking, quality of workplace relationships, and acceptance of higher CEO-to-median	worker pay ratios.](/files/os_ur.pdf) 
+Vaid, S. S., **Wiwad, D.**, Sadeq-Keyes, R., Puente, L., Massimi, M., & Whillans, A. V. (*Under Review, Organization Science*). [The daily dynamics of informal interactions and psychological safety: An intensive longitudinal study of hybrid workers](/files/org_sci_2025.pdf)
 
-To, C., **Wiwad, D.**, & Kouchaki, M. (*Revise and Resubmit*). [Inequality increases the acceptability of unethical behavior.](/files/jpsp_ur.pdf)
+Xiao, V L., **Wiwad, D.**, Talaifar, S., Chu, C., Puente, L., Lagaron, A., & Lowery, B. S. (*Under Review, Nature Human Behavior*). [American knowledge workers experience less racial discrimination and greater well-being when working remotely than in person](/files/nhb_2025.pdf)
 
