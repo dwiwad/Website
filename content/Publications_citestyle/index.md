@@ -15,8 +15,8 @@ You can find my full academic cv [here](/files/cv.pdf).
   <h2>2023</h2>
 </DIV>
 
-To, C., **Wiwad, D.**, Kouchaki, M. (2023). Economic inequality reduces sense of control and increases the acceptability of self-interested unethical behavior. *Journal of Experimental Psychology: General, 152*, 2747–2774. [https://doi.org/10.1037/xge0001423](/files/jesp_2021.pdf)
-<p align="right"><a href="https://osf.io/8byzd/">Data, Materials, and Code</a></p>
+To, C., **Wiwad, D.**, Kouchaki, M. (2023). Economic inequality reduces sense of control and increases the acceptability of self-interested unethical behavior. *Journal of Experimental Psychology: General, 152*, 2747–2774. [https://doi.org/10.1037/xge0001423](/files/jepg_2023.pdf)
+<p align="right"><a href="https://osf.io/arj4q/">Data, Materials, and Code</a></p>
 
 Hoogeveen, S., … **Wiwad., D.**, … & Wagenmakers, E-J. (2023). A many-analysts approach to the relationship between religiosity and well-being. *Religion, Brain & Behavior, 13*, 237-283. [https://doi.org/10.1080/2153599X.2022.2070255](/files/rbb_2023.pdf)
 <p align="right">Consortium project, no data or code</p>
